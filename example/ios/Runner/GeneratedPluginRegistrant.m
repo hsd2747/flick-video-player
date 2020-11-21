@@ -4,10 +4,10 @@
 
 #import "GeneratedPluginRegistrant.h"
 
-#if __has_include(<video_player_header/VideoPlayerPlugin.h>)
-#import <video_player_header/VideoPlayerPlugin.h>
+#if __has_include(<video_player/FLTVideoPlayerPlugin.h>)
+#import <video_player/FLTVideoPlayerPlugin.h>
 #else
-@import video_player_header;
+@import video_player;
 #endif
 
 #if __has_include(<wakelock/WakelockPlugin.h>)

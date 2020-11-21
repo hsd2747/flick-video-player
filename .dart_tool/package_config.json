@@ -56,6 +56,12 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///C:/flutter_folder/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "matcher",
       "rootUri": "file:///C:/flutter_folder/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10-nullsafety.1",
       "packageUri": "lib/",
@@ -140,10 +146,22 @@
       "languageVersion": "2.10"
     },
     {
-      "name": "video_player_header",
-      "rootUri": "file:///C:/flutter_folder/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_header-0.10.2+4",
+      "name": "video_player",
+      "rootUri": "file:///C:/flutter_folder/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-1.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "video_player_platform_interface",
+      "rootUri": "file:///C:/flutter_folder/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "video_player_web",
+      "rootUri": "file:///C:/flutter_folder/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-0.1.4+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
     },
     {
       "name": "wakelock",
@@ -158,7 +176,7 @@
       "languageVersion": "2.4"
     }
   ],
-  "generated": "2020-11-21T07:07:03.339323Z",
+  "generated": "2020-11-21T07:11:26.141131Z",
   "generator": "pub",
   "generatorVersion": "2.10.4"
 }
