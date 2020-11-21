@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:video_player_header/video_player_header.dart';
+import 'package:video_player/video_player.dart';
 
 /// Renders [VideoPlayer] with [BoxFit] configurations.
 class FlickNativeVideoPlayer extends StatelessWidget {
